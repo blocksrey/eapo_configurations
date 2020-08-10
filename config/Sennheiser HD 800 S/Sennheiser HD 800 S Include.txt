@@ -1,3 +1,2 @@
-Device: Speakers Schiit Modi 3 {9e2159f5-d915-40c7-b2ad-aef62d8ce433}
 Preamp: -6.3 dB
 Include: Sennheiser HD 800 S ParametricEQ.txt
