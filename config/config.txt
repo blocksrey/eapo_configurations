@@ -1,2 +1,4 @@
+Device: Speakers Schiit Modi 3 {9e2159f5-d915-40c7-b2ad-aef62d8ce433}
 Include: Sennheiser HD 800 S\Sennheiser HD 800 S Include.txt
-# Include: Audio-Technica ATH-M20x\Audio-Technica ATH-M20x Include.txt
+Device: Microphone AT2020 USB                {be2bf3d6-035a-4981-8074-0fef53ee8e0b}
+Include: Audio-Technica AT2020\Audio-Technica AT2020 Include.txt
