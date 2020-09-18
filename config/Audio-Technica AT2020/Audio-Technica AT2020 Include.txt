@@ -1,3 +1,2 @@
-VSTPlugin: Library D:\root\Audio\Music\VST\64\librnnoise_vst.dll
-VSTPlugin: Library D:\root\Audio\Music\VST\64\ReaPlugs\reacomp-standalone.dll SignIn 0 Thresh 0.1 Hipass 0 Pre-comp 0.04 Release 0.002 Ratio 0.010101 AutoMkUp 0 Attack 0.02 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1.77828 PreviewF 0 "RMS size" 0 Knee 0 AutoRel 0 ClsAttk 0 AntiAls 0
-VSTPlugin: Library D:\root\Audio\Music\VST\64\ReaPlugs\reagate-standalone.dll SignIn 0 Thresh 0.0316228 Hold 0.01 Hipass 0 Pre-open 0.04 Attack 0.02 Release 0.002 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 Noise 3.16228e-8 Hystrsis 1 PreviewF 0 "RMS size" 0 Usemidi 0 MidiNote 0.543307 MidiChan 0 InvrtWet 0
+VSTPlugin: Library D:\Audio\Music\VST\64\librnnoise_vst.dll
+VSTPlugin: Library D:\Audio\Music\VST\64\ReaPlugs\reagate-standalone.dll SignIn 0 Thresh 0.0316228 Hold 0.01 Hipass 0 Pre-open 0.04 Attack 0.02 Release 0.002 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 Noise 3.16228e-8 Hystrsis 1 PreviewF 0 "RMS size" 0 Usemidi 0 MidiNote 0.543307 MidiChan 0 InvrtWet 0
