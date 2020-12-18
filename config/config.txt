@@ -1,4 +1,4 @@
-Device:   Speakers Schiit Modi 3 {12bbbeb9-ec11-4b26-b6ce-4f6e271c7144}
-Include: Sennheiser HD 800 S\test.txt
+Device: Speakers Schiit Modi 3 {29183299-045c-4696-b099-6a597828c9f2}
+Include: Sennheiser HD 800 S\Sennheiser HD 800 S Sheepskin Jeff.txt
 Device: Microphone HD Pro Webcam C920 {dca454fa-303b-43d6-95f1-0a7ca68e99f3}
 Include: Audio-Technica AT2020\Audio-Technica AT2020 Include.txt
